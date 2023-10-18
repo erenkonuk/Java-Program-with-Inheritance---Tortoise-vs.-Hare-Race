@@ -1,0 +1,2 @@
+# Java-Program-with-Inheritance---Tortoise-vs.-Hare-Race
+ The program utilizes object-oriented programming and class inheritance to model the characteristics and behaviors of both animals. The tortoise and the hare have different speeds and strategies, and the program shows who wins the race or when it ends in a tie. This program provides an excellent example for learning class inheritance and object-oriented programming in Java.
